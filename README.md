@@ -1,10 +1,10 @@
 # PythonTracer
-PythonTracer for tests in Database, Monitoring, Webservers and Cloud
+**PythonTracer for tests in Database, Monitoring, Webservers and Cloud**
 
 
 This Program was inspired by ChatGPT Input:
-"Let's Work, looking for a simple python program that can generate traces and simple calls to database"
-"i want to access the program by a web address"
+- "Let's Work, looking for a simple python program that can generate traces and simple calls to database"
+- "i want to access the program by a web address"
 
 
 With the First Setup:
